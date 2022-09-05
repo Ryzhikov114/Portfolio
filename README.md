@@ -1,6 +1,6 @@
 <h1 align="center">Здравствуйте, меня зовут Кирилл</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий Аналитик Данных, 
+<h3 align="center">Изучаю Аналитику Данных, 
                   </br> закончил курсы Яндекс Практикум,
                   </br> студент по SQL в ДВФУ
                   </br> телеграм: <a href="https://t.me/ryzhikov114" target="_blank">@ryzhikov114</a></h3>
