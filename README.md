@@ -1,3 +1,3 @@
 # Portfolio
-My strudy projects in Yandex Practicum
+[Анализ заемщиков, банковская сфера]#p2_banki.ipynb
 2
