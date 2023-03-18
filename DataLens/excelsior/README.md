@@ -1,4 +1,4 @@
-cсылка на дашборд: https://datalens.yandex/ipf2lp9us9zw8?tab=Wj
+Ссылка на дашборд: https://datalens.yandex/ipf2lp9us9zw8?tab=Wj
 
 # ♟️ ЭКСЦЕЛЬСИОР
 
