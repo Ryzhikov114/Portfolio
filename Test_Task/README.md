@@ -7,3 +7,4 @@
 3 | [Whoisblogger](whoisblogger) |  Создание таблиц, и на их основе сделать SQL запросы.
 4 | [Афанекс](afaneks) | 4 задания по SQL
 5 | [Excelsior](excelsior) | Переделана в нужный формат таблица, с помощью melt() в python.
+5 | [a101](a101) | 3 задания по SQL
