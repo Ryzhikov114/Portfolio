@@ -1,4 +1,4 @@
-Ссылка на дашборд DataLens: https://datalens.yandex/twrtanw0yz3aj?state=797c8e84515
+Ссылка на дашборд DataLens: https://datalens.yandex/twrtanw0yz3aj
 
 # 🍇 "BRANDAP STORE"
 
