@@ -7,3 +7,8 @@ Num | Название  | Описание
 4 | [📒](PowerBI) [Power BI](PowerBI) | Дашборды из Power BI представлены ввиде скриншотов, каждая работа содержит ссылку на файл pbix.
 5 | [🍷](Tableau) [Tableau](Tableau) | Дашборды из Tableau, каждая работа содержит ссылку на дашборд. 
 6 | [✍](Other) [Other](Other) | Работы которые не попали в [Good_Project](Good_Project)
+
+Стек:
+- Python (pandas, numpy, seaborn, matplotlib, plotly , sklearn, scipy)
+- SQL (MYSQL, PostgreSQL, SQLite3, MSSQL)
+- BI система (Power BI, Datalens, Tableau)
