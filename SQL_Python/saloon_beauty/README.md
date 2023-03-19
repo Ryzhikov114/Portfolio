@@ -7,5 +7,3 @@
 3. Выгрузить в файле Excel
 
 Стек: pandas, numpy, matplotlib.pyplot, seaborn
-
-
