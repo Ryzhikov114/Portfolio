@@ -8,4 +8,5 @@
 - Линейный график кол-ва по годам
 - Цветовая палитра сделана в цветах компании Playstation
 
-![PS4 — Power BI Desktop](https://user-images.githubusercontent.com/104127892/226335887-da1939b7-c6ac-476e-9282-5a5bbf983118.jpg)
+![1](https://user-images.githubusercontent.com/104127892/226374691-bb9eca8b-a621-4d7e-80dd-f88c0d49f67a.jpg)
+
