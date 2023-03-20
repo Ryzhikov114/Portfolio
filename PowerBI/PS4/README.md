@@ -1,5 +1,4 @@
-Ссылка на pbix: https://drive.google.com/file/d/1ThtipAaHzbOqHON1x5gfGx5-3DIPzcey/view?usp=share_link
-
+Ссылка на pbix: https://drive.google.com/file/d/1J8dZUK-qMAsXcfhIioN7hjmvd0tWzhRo/view?usp=share_link
 # Дашборд на тему игр для PS4 / PS4 Pro
 
 ## Что сделано:
